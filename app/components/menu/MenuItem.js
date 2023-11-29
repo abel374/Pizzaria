@@ -1,4 +1,5 @@
 export default function MenuItem() {
+    
     return (
         <div className="bg-gray-200 p-4 rounded-lg text-center group hover:bg-white  hover:shadow-md hover:shadow-blacktransition-all">
             <div className="text-center">
